@@ -7,6 +7,7 @@ import 'package:flutter_login/flutter_login.dart';
 // this method does not need any permission
 
 var users = {
+  'demo@gmail.com': '1234',
   'patrick8q@gmail.com': 'YOUTAP2019',
   'yoneclick@gmail.com': 'Junio020499',
   'erick@gmail.com': 'erick123',
